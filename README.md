@@ -22,9 +22,8 @@ Shiny-Calorie is a Shiny/R web application for data and metadata integration, vi
 ## Documentation
 Documentation available through Github Pages: https://stephanmg.github.io/calorimetry
 
-The app is available on the following web sites: 
-- [Shiny-Calorie in ShinyApps](https://calorimetry.shinyapps.io/calorimetry/) or 
-- [Shiny-Calorie on on-premise Uni Bonn](https://shinys.iaas.uni-bonn.de/Shiny-Calorie).
+The app is available on the following web site: 
+- [Shiny-Calorie on on-premise Uni Bonn](https://shiny.iaas.uni-bonn.de/Shiny-Calorie).
 
 Please refer also to the supplementary material from Shiny-Calorie preprint [1].
 
@@ -41,7 +40,7 @@ There you can download the nightly builds for Windows, OSX or Linux. Builds are 
 
 ## Metadata integration
 
-One can use the Shiny/R metadata converter app: https://github.com/stephanmg/metadata-converter 
+One can use the Shiny/R metadata converter app: https://shiny.iaas.uni-bonn.de/CaloHelper/
 The metadata converter will generate a truncated metadata sheet compatible for reading into Shiny-Calorie.
 
 Alternatively you can fill out the standardized metadata sheet [2] yourself in Excel or fall back to relying on the metadata header of raw data sets.
