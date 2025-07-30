@@ -4,56 +4,56 @@ API Documentation
 .. toctree::
    :maxdepth: 1
 
-   rst/remove_z_score_outliers
-   rst/model_effects
-   rst/get_true_metadata
-   rst/generate_statistical_table
-   rst/import_promethion
-   rst/style_plot
    rst/enrich_with_metadata
-   rst/get_git_information_from_repository
-   rst/coarsen_data_sets
-   rst/import_cosmed
-   rst/get_covariates_and_units
-   rst/annotate_rmr_days
-   rst/create_df
-   rst/goxlox
-   rst/padding_helper
-   rst/get_r_squared_clean
-   rst/get_time_diff
-   rst/calculate_statistic
-   rst/get_constants
-   rst/plot_locomotion
-   rst/raw_measurement
-   rst/add_stylize_plot_plotting_control
-   rst/prepare_data_frame_for_export
-   rst/check_for_cosmed
-   rst/visualize_model_effects
-   rst/remove_zero_values
-   rst/cv
    rst/reformat_time_for_cosmed
-   rst/create_lme_model_ui
-   rst/get_date_range
-   rst/import_pheno_v8
-   rst/reformat
-   rst/lookup_cohort_belonging
+   rst/coarsen_data_sets
    rst/resting_metabolic_rate
-   rst/extract_rmr_helper
+   rst/lookup_cohort_belonging
+   rst/model_effects
+   rst/get_constants
+   rst/get_date_range
+   rst/get_r_squared_clean
+   rst/import_pheno_v8
+   rst/do_export_all_data
+   rst/cv
+   rst/plot_locomotion
    rst/partition
+   rst/process_return_value_for_statistic
+   rst/do_ancova_alternative
    rst/zeitgeber_zeit
-   rst/pretty_print_interval_length_list
-   rst/draw_day_night_rectangles
+   rst/annotate_rmr_days
+   rst/visualize_model_effects
+   rst/remove_z_score_outliers
+   rst/padding_helper
+   rst/get_new_download_buttons
+   rst/create_df
+   rst/get_study_description_from_metadata
+   rst/remove_zero_values
+   rst/generate_statistical_table
+   rst/plot_locomotion_budget
+   rst/indicate_plot_rendered
+   rst/raw_measurement
+   rst/energy_expenditure
+   rst/import_promethion
+   rst/create_lme_model_ui
+   rst/goxlox
+   rst/add_stylize_plot_plotting_control
    rst/extract_rmr
    rst/do_extract
-   rst/do_ancova_alternative
-   rst/process_return_value_for_statistic
-   rst/body_composition
-   rst/energy_expenditure
-   rst/get_new_download_buttons
-   rst/get_study_description_from_metadata
-   rst/indicate_plot_rendered
+   rst/get_true_metadata
+   rst/get_covariates_and_units
+   rst/style_plot
+   rst/extract_rmr_helper
+   rst/get_time_diff
    rst/lookup_interval_length
    rst/total_energy_expenditure
-   rst/do_export_all_data
+   rst/calculate_statistic
+   rst/body_composition
+   rst/draw_day_night_rectangles
+   rst/check_for_cosmed
+   rst/reformat
+   rst/prepare_data_frame_for_export
    rst/guide
-   rst/plot_locomotion_budget
+   rst/get_git_information_from_repository
+   rst/pretty_print_interval_length_list
+   rst/import_cosmed
