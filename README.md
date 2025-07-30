@@ -31,9 +31,7 @@ Tutorial videos are available on YouTube: [Tutorials](http://youtube.com/@Shiny-
 
 ## Standalone Desktop apps
 
-One can use the Electron wrapper of the app which uses docker inside the Electron app: https://github.com/stephanmg/shiny-electron-wrapper
-
-Releases are uploaded to Sciebo automatically here: https://uni-bonn.sciebo.de/s/0qDhG2Bu1VNkRli/
+One can use the Electron wrapper of the app which uses docker inside the Electron app: https://uni-bonn.sciebo.de/s/AP9xTRmcXQSrkZw
 
 There you can download the nightly builds for Windows, OSX or Linux. Builds are automatically generated and artifacts deployed trough the `build` Github workflow.
 
